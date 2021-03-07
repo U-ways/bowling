@@ -1,2 +1,2 @@
 # Bowling
-A textbased
+A Command Line Bowling Scoreboard.
